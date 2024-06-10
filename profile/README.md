@@ -32,10 +32,11 @@ Block Transfer is committed to inclusivity and accessibility. Our platform opens
 We strive to make investing accessible to everyone, removing traditional barriers and creating a more inclusive financial system. Everyone, regardless of their background or location, should have access to financial markets.
 
 > Everybody has the right to capital.
+
 > It’s a basic human right.
+
 &mdash;John Doerr on Muhammad Yunus
 
-### 
 By utilizing the Stellar blockchain, we provide a platform that is secure, transparent, and accessible, empowering individuals to take control of their financial futures and participate in a truly inclusive global economy.
 
 Community-Driven Development: Our platform is built with input from a diverse global community, ensuring it meets the needs of all users.
