@@ -1,9 +1,9 @@
-![alt text](intro.png)
+![alt text](imgs/intro.png)
 
-![alt text](mission.png)
+![alt text](imgs/mission.png)
 
-![alt text](inclusion.png)
+![alt text](imgs/inclusion.png)
 
-![alt text](method.png)
+![alt text](imgs/method.png)
 
-![alt text](summary.png)
+![alt text](imgs/summary.png)
