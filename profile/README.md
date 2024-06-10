@@ -1,9 +1,9 @@
-![alt text](imgs/intro.png)
+![Block Transfer](imgs/intro.png)
 
-![alt text](imgs/mission.png)
+![We're on a mission](imgs/mission.png)
 
-![alt text](imgs/inclusion.png)
+![Investing for everyone](imgs/inclusion.png)
 
-![alt text](imgs/method.png)
+![Employing direct registration](imgs/method.png)
 
-![alt text](imgs/summary.png)
+[![Learn more on mainnet](imgs/summary.png)](https://stellar.expert/explorer/public/account/GDRM3MK6KMHSYIT4E2AG2S2LWTDBJNYXE4H72C7YTTRWOWX5ZBECFWO7)
