@@ -6,4 +6,4 @@
 
 ![Employing direct registration](imgs/method.png)
 
-[![Learn more on mainnet](imgs/summary.png)](https://stellar.expert/explorer/public/account/GDRM3MK6KMHSYIT4E2AG2S2LWTDBJNYXE4H72C7YTTRWOWX5ZBECFWO7)
+[![Learn more on mainnet](profile/imgs/summary.png)](https://stellar.expert/explorer/public/account/GDRM3MK6KMHSYIT4E2AG2S2LWTDBJNYXE4H72C7YTTRWOWX5ZBECFWO7)
