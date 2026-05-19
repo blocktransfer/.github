@@ -1,7 +1,7 @@
-[![Block Transfer](imgs/intro.png)](https://www.blocktransfer.com/)
+[![BlockTransfer](imgs/intro.png)](https://www.blocktransfer.com/)
 
 ### Buidling Open Source Wall Street 🌐
-At Block Transfer, we are dedicated to creating a transparent, efficient, and inclusive financial system using blockchain technology. Our mission is to decentralize capitalism by leveraging the power of open source development and decentralized networks, enabling anyone to participate in the global financial markets.
+At BlockTransfer, we are dedicated to creating a transparent, efficient, and inclusive financial system using blockchain technology. Our mission is to decentralize capitalism by leveraging the power of open source development and decentralized networks, enabling anyone to participate in the global financial markets.
 
 ### Blockchain Innovation and Community-Driven Development
 By leveraging blockchain, we provide secure and direct transactions, reducing costs and increasing transparency for all users. Networks are built with input from a diverse global community, ensuring it meets the needs of all users.
@@ -31,7 +31,7 @@ With blockchain technology, we ensure that every transaction is transparent and 
 [![Investing for everyone](imgs/inclusion.png)](https://blocktransfer.com/.well-known/yellowpaper.pdf#page=5)
 
 ### Inclusive Global Investing 🌍
-Block Transfer is committed to inclusivity and accessibility. Our platform opens the doors to global financial markets, providing investment opportunities to individuals worldwide, regardless of their location or socioeconomic status. We strive to create a financial ecosystem where everyone can thrive.
+BlockTransfer is committed to inclusivity and accessibility. Our platform opens the doors to global financial markets, providing investment opportunities to individuals worldwide, regardless of their location or socioeconomic status. We strive to create a financial ecosystem where everyone can thrive.
 
 ### Breaking Down Barriers 🚧
 
